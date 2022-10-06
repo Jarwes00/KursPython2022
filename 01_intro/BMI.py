@@ -1,0 +1,6 @@
+wzrost = float(input('ile masz wzrostu? [kg]'))
+print('wow', wzrost, 'wysoko')
+masa = float(input("Ile ważysz? [m]"))
+print('super', masa, ', dzięki')
+BMI = ((masa)) / ((wzrost ** 2))
+print('Twoje BMI wynosi:', round(BMI, 2))
