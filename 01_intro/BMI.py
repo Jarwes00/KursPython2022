@@ -5,3 +5,4 @@ print('super', masa, ', dzięki')
 BMI = masa / (wzrost ** 2)
 print('Twoje BMI wynosi:', round(BMI, 2))
 
+
