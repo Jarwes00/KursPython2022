@@ -22,3 +22,4 @@ def get_book():
             print("numer nie istnieje")
 
 get_book()
+get_book()
