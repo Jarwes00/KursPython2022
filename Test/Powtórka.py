@@ -8,3 +8,5 @@ def maximum_of():
         print('najwyższa to', b)
     elif c > a > b:
         print('najwyższa to', c)
+
+        print('najwyższa to', c)
