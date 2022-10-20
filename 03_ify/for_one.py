@@ -4,3 +4,4 @@ for i in items:
     print("-", i)
 
 print("Great, I am ready")
+print("Great, I am ready")
