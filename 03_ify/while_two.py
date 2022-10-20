@@ -1,7 +1,7 @@
 #
 
 imie = input('podaj imiona oddzielone spacją')
-imiona = imiona.split()
+imiona = imie.split()
 
 for imie in imiona:
     print("hello", imie, "!")
