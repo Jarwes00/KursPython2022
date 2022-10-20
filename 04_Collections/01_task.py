@@ -4,3 +4,4 @@
 gory = ["latarka", "woda", "nóż", "chleb", "inne"]
 gory.sort()
 print(gory)
+print(gory)
