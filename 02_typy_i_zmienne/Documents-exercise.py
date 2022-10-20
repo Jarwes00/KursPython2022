@@ -7,3 +7,5 @@ txt.rstrip(‘a’) #usuwa A dopóki nie trafi na inną
 # Czy w TXT są duże litery?
 
 print( txt.isalpha() and not txt.islower()) #Czy posiada liczby w sobie I NIE  są małe litery
+
+print(txt)
