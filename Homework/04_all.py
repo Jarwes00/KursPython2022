@@ -6,8 +6,9 @@ kpn = ['kamien', 'papier', 'nożyce']
 
 komputer = random.choice(kpn)
 
-gracz = input('wybierz kamień (k) / papier (p) / nożyce (n)')
+
 while True:
+    gracz = input('wybierz kamień (k) / papier (p) / nożyce (n)')
     if gracz == "k":
         gracz = 'kamień'
         break
