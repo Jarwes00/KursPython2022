@@ -10,3 +10,5 @@ if __name__ == "__main__":
   a, b, c = (4, 12, 7)
   v = maximum_of(a, b, c)
   print("Moja wieksza liczba to: ", v)
+
+ss
